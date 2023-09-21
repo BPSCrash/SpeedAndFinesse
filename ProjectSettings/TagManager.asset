@@ -8,6 +8,8 @@ TagManager:
   - Wall
   - Hit
   - Egg
+  - Start
+  - Roller
   layers:
   - Default
   - TransparentFX
